@@ -6,7 +6,6 @@
 - [Disclosure](#disclosure)
 - [How this malware works?](#working)
 - [Setup](#setup)
-- [Usage](#usage)
 
 ## Disclosure
 
